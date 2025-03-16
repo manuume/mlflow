@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/474819626761568562/4cee58f64c324b409bba94d27f0bfd6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '474819626761568562'
+lifecycle_stage: active
+run_id: 4cee58f64c324b409bba94d27f0bfd6a
+run_name: valuable-whale-676
+run_uuid: 4cee58f64c324b409bba94d27f0bfd6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742072439604
+status: 1
+tags: []
+user_id: user

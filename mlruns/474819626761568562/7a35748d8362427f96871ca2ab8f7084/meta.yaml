@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/474819626761568562/7a35748d8362427f96871ca2ab8f7084/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '474819626761568562'
+lifecycle_stage: active
+run_id: 7a35748d8362427f96871ca2ab8f7084
+run_name: nebulous-rook-242
+run_uuid: 7a35748d8362427f96871ca2ab8f7084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742072656754
+status: 1
+tags: []
+user_id: user
